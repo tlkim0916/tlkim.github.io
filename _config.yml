@@ -57,3 +57,8 @@ tag_dir: tag/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Markdown newline activator
+kramdown:
+  input: GFM
+  hard_wrap: true
