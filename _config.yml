@@ -21,10 +21,10 @@
 title: Notes
 email: tlkim0916@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
-# baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ejjoo
+  # Themed by ejjoo
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://tlkim0916.github.io/tlkim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: tlkim
 highlighter: rouge
 svg:
   optimize: true
@@ -34,6 +34,7 @@ highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
+  
 category_dir: category/
 tag_dir: tag/
 
