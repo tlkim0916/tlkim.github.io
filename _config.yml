@@ -23,7 +23,7 @@ email: tlkim0916@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Econ, Finance
 # baseurl: ""# the subpath of your site, e.g. /blog
-url: "https://tlkim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tlkim0916.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: tlkim
 highlighter: rouge
 svg:
