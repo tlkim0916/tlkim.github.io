@@ -345,7 +345,7 @@ footer {
 
 /* 포스트 본문에서 공백 및 들여쓰기 보존 */
 article {
-  white-space: pre-line;  /* 줄바꿈 보존, 연속 공백은 하나로 */
+  white-space: pre-wrap;  /* 줄바꿈 보존, 연속 공백은 하나로 */
 }
 
 /* 리스트 들여쓰기 강화 */
