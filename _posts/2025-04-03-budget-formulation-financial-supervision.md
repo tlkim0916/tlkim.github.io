@@ -12,8 +12,8 @@ toc: true
 ## 1. 주요국의 정부 예산편성조직 
 
 ### [미국]
-□ 대통령실 소속의 관리예산처(OMB; Office of Management & Budget)에서 예산 편성 담당
-   &emsp;○ OMB는 대통령의 예산안 편성 및 행정부 각 기관의 예산 집행을 감독하는 역할을 수행(Riccard et al.(2023))
+- □ 대통령실 소속의 관리예산처(OMB; Office of Management & Budget)에서 예산 편성 담당
+ - ○ OMB는 대통령의 예산안 편성 및 행정부 각 기관의 예산 집행을 감독하는 역할을 수행(Riccard et al.(2023))
    &emsp;○ 예산편성 순서는 대통령의 예산 편성 지침 하달, 각 부처의 예산 편성 제출, 관리예산처의 검토와 통보 및 각 부처의 재심청구, 대통령의 최종안 작성과 의회 제출(이정희(2010))
    &emsp;○ OMB는 1921년 재무부 소속이었으나, 1939년 대통령실 소속으로 이관되었으며, 1970년 정부 개편안(Reorganization Plan No. 2 Of 1970)에 의해 BOB에서 현재의 명칭으로 변경 (기재부(2023))
    &emsp;○ OMB는 각 연방 부처 및 기관을 대상으로 예산 지침 마련 및 부처 예산 요구사항 검토 후 부처 예산 조율 및 통합, 예산 부처 배정 등의 역할을 통해 본연의 임무인 예산의 효과적 경제적 사용 증진 역할을 수행(기재부(2023))
@@ -45,8 +45,8 @@ toc: true
 ## 2. 주요국의 금융감독기관 조직과 감독 범위
 
 ### [미국]
-□ 미국의 금융 규제 시스템은 3대 연방 규제기관(FRS, OCC, FDIC) 중심의 여러 기관이 감독하는 분산형 시스템
-   &emsp;○ 연방준비제도(FRB)는 통화정책 감독 및 상업 은행 부문 감독(Schmidt(2024)). 구체적으로, 연준은 주법은행 (state-chartered banks), 은행지주회사(BHCs), 미국 국립 및 주정부 은행의 해외 지점(foreign branches of US national and state member banks), 외국 은행의 주법 지점(state-chartered US branches of foreign banks)에 대한 규제 기관으로 주로 대형 은행 기관을 감독하고 규제(Eric(2021))
+- □ 미국의 금융 규제 시스템은 3대 연방 규제기관(FRS, OCC, FDIC) 중심의 여러 기관이 감독하는 분산형 시스템
+   - ○ 연방준비제도(FRB)는 통화정책 감독 및 상업 은행 부문 감독(Schmidt(2024)). 구체적으로, 연준은 주법은행 (state-chartered banks), 은행지주회사(BHCs), 미국 국립 및 주정부 은행의 해외 지점(foreign branches of US national and state member banks), 외국 은행의 주법 지점(state-chartered US branches of foreign banks)에 대한 규제 기관으로 주로 대형 은행 기관을 감독하고 규제(Eric(2021))
         &emsp;&emsp;<small>* 대부분의 은행이 연준의 회원임에도 대부분은 통화감독청(OCC)에 규제를 받음 (Schmidt(2024))</small>
    &emsp;○ 통화감독청(OCC)은 미국 재무부 산하 기관으로 국법은행(nationally-chartered banks)을 조직 및 관리하고 1,200개의 은행과 연방저축협회(federal savings associations)의 주요 규제 기관(Erick(2021)).
         &emsp;&emsp;<small>* 최근 핀테크, 암호화폐 등 신규 규제 지침 발표(Bisanz et al.(2025))</small>
