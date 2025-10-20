@@ -337,3 +337,16 @@ footer {
 		display: none;
 	}
 }
+
+
+---
+---
+
+@import "main";  // 기존 테마 import
+
+/* 포스트 본문에서 공백 및 들여쓰기 보존 */
+.post-content,
+.page-content {
+  white-space: pre-wrap;  /* 공백과 줄바꿈 보존 */
+  word-wrap: break-word;  /* 긴 단어는 줄바꿈 */
+}
