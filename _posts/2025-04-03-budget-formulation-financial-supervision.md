@@ -2,6 +2,7 @@
 layout: post
 title: "주요국의 예산편성조직과 금융감독기관 비교"
 date: 2025-04-03
+category: policy
 toc: true
 ---
 
