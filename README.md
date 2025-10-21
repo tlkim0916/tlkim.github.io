@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+## About
+
+- Name: Edith
+- Email: [tlkim0916@gmail.com](mailto:tlkim0916@gmail.com)
+- Focus: Economics and Finance, among other topics  
+
 <!-- ## Theme Monos
 > Simple and lightweight theme for Jekyll
 
