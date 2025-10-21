@@ -17,10 +17,9 @@
 	  <!-- <li>
 	  	<a class="nav-item" href="/">Articles</a>
 	  </li> -->
-	  {% assign pages_list = site.pages %}
-		| where_exp: "p", "p.title"
-		| where_exp: "p", "p.layout == 'page'"
-		| sort: "order" %}
+	  {% assign pages_list = site.pages % | where_exp: "p", "p.title" | where_exp: "p", "p.layout == 'page'" | sort: "order" %}
+
+
 	  {% for node in pages_list %}
 		<li>
 			<a class="nav-item" href="{{ node.url | relative_url }}">{{ node.title }}</a>
