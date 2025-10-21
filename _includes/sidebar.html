@@ -18,9 +18,9 @@
 	  	<a class="nav-item" href="/">Articles</a>
 	  </li> -->
 	  {% assign pages_list = site.pages
-		| where_exp: "p", "p.layout == 'about' or p.layout == 'page'" 
-		| where_exp: "p", "p.title != 'Pygments-Css'"
+		| where_exp: "p", "p.order"
 		| sort: "order" %}
+
 
 
 	  {% for node in pages_list %}
