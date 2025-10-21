@@ -19,7 +19,7 @@
 	  </li> -->
 	  {% assign pages_list = site.pages
 		| where_exp: "p", "p.layout == 'about' or p.layout == 'page'" 
-		| where_exp: "p", "p.title != 'Pygments_Css'"
+		| where_exp: "p", "p.title != 'Pygments-Css'"
 		| sort: "order" %}
 
 
