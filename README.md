@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<!-- ## Theme Monos -->
-<!-- > Simple and lightweight theme for Jekyll -->
+<!-- ## Theme Monos
+> Simple and lightweight theme for Jekyll
 
 ### Features
 - Responsive.
@@ -30,4 +30,4 @@ date_format: "%Y-%M-%D" //and date format.
 #### Page - Mobile
 ![alt text](/public/img/screenshot-m1.png)
 #### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+![alt text](/public/img/screenshot-m2.png) -->
