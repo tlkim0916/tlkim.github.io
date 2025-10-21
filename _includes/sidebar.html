@@ -26,7 +26,7 @@
 		<li>
 			<a class="nav-item" href="{{ node.url | relative_url }}">{{ node.title }}</a>
 		</li>
-	    {% if node.title != null %}
+	    <!-- {% if node.title != null %}
 	      {% if node.layout == "page" %}
 	        <li>
 	        	<a class="nav-item" href="{{ node.url }}">
@@ -34,7 +34,7 @@
 	            </a>
 	        </li>
 	      {% endif %}
-	    {% endif %}
+	    {% endif %} -->
 	  {% endfor %}
 	</ul>
 </div>
