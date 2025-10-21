@@ -14,20 +14,19 @@
 <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
       <li class="nav-title">Pages</li>
-	  <!-- <li>
+	  <li>
 	  	<a class="nav-item" href="/">Articles</a>
-	  </li> -->
-	  {% assign pages_list = site.pages % 
+	  </li>
+	  {% assign pages_list = site.pages %
 		| where_exp: "p", "p.title" 
 		| where_exp: "p", "p.layout == 'page'" 
 		| sort: "order" %}
-
 
 	  {% for node in pages_list %}
 		<li>
 			<a class="nav-item" href="{{ node.url | relative_url }}">{{ node.title }}</a>
 		</li>
-	    {% if node.title != null %}
+	    <!-- {% if node.title != null %}
 	      {% if node.layout == "page" %}
 	        <li>
 	        	<a class="nav-item" href="{{ node.url }}">
@@ -35,7 +34,7 @@
 	            </a>
 	        </li>
 	      {% endif %}
-	    {% endif %}
+	    {% endif %} -->
 	  {% endfor %}
 	</ul>
 </div>
