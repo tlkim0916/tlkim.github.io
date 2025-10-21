@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-## About
+
 - Name: Edith
 - Email: [tlkim0916@gmail.com](mailto:tlkim0916@gmail.com)
 - Focus: Economics and Finance, among other topics  
