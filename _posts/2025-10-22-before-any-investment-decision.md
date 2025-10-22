@@ -16,13 +16,14 @@ Please include rating distribution, target price range and average,
 the latest analyst updates with dates, 
 and at least one specific named expert opinion.
 ```
-![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png1.png)
 
-![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png2.png)
+![png1](/public/img/2025-10-22-before-any-investment-decision/png1.png)
 
-![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png3.png)
+![png2](/public/img/2025-10-22-before-any-investment-decision/png2.png)
 
-![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png4.png)
+![png3](/public/img/2025-10-22-before-any-investment-decision/png3.png)
+
+![png4](/public/img/2025-10-22-before-any-investment-decision/png4.png)
 
 Always ask for Wall Street’s professional perspective—not the AI’s own opinion.
 
