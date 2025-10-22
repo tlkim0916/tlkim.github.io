@@ -7,25 +7,13 @@ category: policy
 
 ## Presidential Limits in Economic Influence
 
-It seems the main point of this news is that a president alone has
-limited impact on the economy’s performance, whereas the federal
-reserve’s decisions are far more influential. This is a point I
-completely agree with.
+It seems the main point of this news is that a president alone has limited impact on the economy’s performance, whereas the federal reserve’s decisions are far more influential. 
+This is a point I completely agree with.
 
-What directly affects the stock, loan, and bond markets are actions
-taken by the federal reserve, such as changes in interest rates, which
-influence how much people borrow and invest, and how the federal reserve
-assesses the economy, which shapes overall market sentiment.
+What directly affects the stock, loan, and bond markets are actions taken by the federal reserve, such as changes in interest rates, which influence how much people borrow and invest, and how the federal reserve assesses the economy, which shapes overall market sentiment.
+I believe the president’s role should be focused on setting policy, not interfering with purely economic processes. While this approach might seem like a slight drag on the economy in the short-term, it is crucial for long-term stability.
 
-I believe the president’s role should be focused on setting policy, not
-interfering with purely economic processes. While this approach might
-seem like a slight drag on the economy in the short-term, it is crucial
-for long-term stability.
-
-If a president intervenes in these processes to create favorable
-impressions during their term - just to claim the economy was strong
-under their leadership - it could ultimately undermine the economy and
-lead to long-term instability.
+If a president intervenes in these processes to create favorable impressions during their term - just to claim the economy was strong under their leadership - it could ultimately undermine the economy and lead to long-term instability.
 
 ``` r
 library(ggplot2)
