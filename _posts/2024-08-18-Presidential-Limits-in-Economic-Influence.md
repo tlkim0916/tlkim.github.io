@@ -1,7 +1,9 @@
-2024-08-18-Presidential Limits in Economic Influence
-================
-Edith
-2024-08-18
+---
+layout: post
+title: "Presidential Limits in Economic Influence"
+date: 2024-08-18
+category: policy
+---
 
 ## Presidential Limits in Economic Influence
 
