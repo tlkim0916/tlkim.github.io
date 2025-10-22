@@ -16,7 +16,7 @@ Please include rating distribution, target price range and average,
 the latest analyst updates with dates, 
 and at least one specific named expert opinion.
 ```
-![alt text](/images/2025-10-22-before-any-investment-decision/png1.png)
+![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png1.png)
 
 ![png2](images/2025-10-22-before-any-investment-decision/png2.png)
 
