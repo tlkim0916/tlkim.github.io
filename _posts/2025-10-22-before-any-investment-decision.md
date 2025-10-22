@@ -18,11 +18,11 @@ and at least one specific named expert opinion.
 ```
 ![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png1.png)
 
-![png2](images/2025-10-22-before-any-investment-decision/png2.png)
+![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png2.png)
 
-![png3](images/2025-10-22-before-any-investment-decision/png3.png)
+![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png3.png)
 
-![png4](images/2025-10-22-before-any-investment-decision/png4.png)
+![alt text](/_posts/images/2025-10-22-before-any-investment-decision/png4.png)
 
 Always ask for Wall Street’s professional perspective—not the AI’s own opinion.
 
