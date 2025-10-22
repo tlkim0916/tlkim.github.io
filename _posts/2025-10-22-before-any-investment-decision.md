@@ -2,7 +2,7 @@
 layout: post
 title: "Before Any Investment Decision: Use Perplexity"
 date: 2025-10-22
-category: investment
+category: policy
 ---
 
 
